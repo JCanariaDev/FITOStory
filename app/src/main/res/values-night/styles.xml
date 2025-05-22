@@ -1,0 +1,10 @@
+<resources>
+    <style name="ToolbarPopupTheme" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="android:textColorPrimary">#FFFFFF</item> <!-- White text -->
+        <item name="android:itemTextAppearance">@style/MenuItemText</item>
+    </style>
+
+    <style name="MenuItemText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

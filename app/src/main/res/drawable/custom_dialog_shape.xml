@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <path
+        android:pathData="M50,10 C120,0 200,5 250,30 C280,55 290,70 285,120 C280,150 275,180 250,200 C220,210 180,215 120,210 C80,205 50,195 30,170 C10,135 5,100 20,50 C25,30 35,15 50,10 Z" />
+    <solid android:color="#FFFFFF" />
+    <stroke
+        android:width="2dp"
+        android:color="#444444" />
+</shape>

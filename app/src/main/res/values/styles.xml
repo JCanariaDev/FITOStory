@@ -1,0 +1,15 @@
+<resources>
+    <style name="ToolbarPopupTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">#000000</item> <!-- Black text -->
+        <item name="android:itemTextAppearance">@style/MenuItemText</item>
+    </style>
+
+    <style name="MenuItemText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="BlobDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/blob_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/blob_dialog_exit</item>
+    </style>
+</resources>

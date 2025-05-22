@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">FITO Story</string>
+    <string name="quick_feature">Quick Feature</string>
+    <string name="library">Library</string>
+    <string name="stories">Stories</string>
+    <string name="quiz">Quiz</string>
+    <string name="default_string">This</string>
+    <string name="see_stories">See Stories</string>
+    <string name="search">Search</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_message">Click OK to continue, or Cancel to stop</string>
+    <string name="_0">13</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="story_text_size">Story Text Size</string>
+    <string name="loading">Loading…</string>
+    <string name="read_story">Read Story</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="creature_name">Creature Name</string>
+    <string name="story_title">Story Title</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ultricies, justo nec tincidunt tincidunt, elit odio euismod sapien, non accumsan lorem nunc id arcu. Integer id augue nec magna dapibus facilisis. Fusce auctor, mauris at vulputate tempus, purus sem tincidunt nisi, vel vehicula nulla ipsum eget leo. Donec vel quam eu justo consectetur dictum nec in nunc. Phasellus vel sodales turpis. Proin malesuada felis nec enim facilisis, ut malesuada nisi hendrerit.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ultricies, justo nec tincidunt tincidunt, elit odio euismod sapien, non accumsan lorem nunc id arcu. Integer id augue nec magna dapibus facilisis. Fusce auctor, mauris at vulputate tempus, purus sem tincidunt nisi, vel vehicula nulla ipsum eget leo. Donec vel quam eu justo consectetur dictum nec in nunc. Phasellus vel sodales turpis. Proin malesuada felis nec enim facilisis, ut malesuada nisi hendrerit.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ultricies, justo nec tincidunt tincidunt, elit odio euismod sapien, non accumsan lorem nunc id arcu. Integer id augue nec magna dapibus facilisis. Fusce auctor, mauris at vulputate tempus, purus sem tincidunt nisi, vel vehicula nulla ipsum eget leo. Donec vel quam eu justo consectetur dictum nec in nunc. Phasellus vel sodales turpis. Proin malesuada felis nec enim facilisis, ut malesuada nisi hendrerit.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ultricies, justo nec tincidunt tincidunt, elit odio euismod sapien, non accumsan lorem nunc id arcu. Integer id augue nec magna dapibus facilisis. Fusce auctor, mauris at vulputate tempus, purus sem tincidunt nisi, vel vehicula nulla ipsum eget leo. Donec vel quam eu justo consectetur dictum nec in nunc. Phasellus vel sodales turpis. Proin malesuada felis nec enim facilisis, ut malesuada nisi hendrerit.
+    </string>
+    <string name="question_number_1">Question Number 1.</string>
+    <string name="story_title_quiz">Story Title Quiz</string>
+    <string name="score">8/15</string>
+    <string name="score_over">53.3%</string>
+    <string name="congratulations">Congratulations!</string>
+
+    <string name="option_text">Congratulations!</string>
+    <string name="view_score">View Score</string>
+    <string name="background_music">Background Music</string>
+
+    <string name="credits_text">All stories used in this app are from:
+Philippine Folk Tales compiled by Mabel Cook Cole
+(Public Domain - Sourced from Project Gutenberg)</string>
+    <string name="credits">Credits</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+
+    <string name="remaining_time">Remaining Time</string>
+    <string name="time">1:00</string>
+    <string name="one">1</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="no_account">No Account?</string>
+    <string name="login">Login</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="logout">Logout</string>
+    <string name="user_name">Username:</string>
+    <string name="psw">Password:</string>
+    <string name="email_">Email:</string>
+    <string name="fito_story">Fito Story</string>
+    <string name="account">Account</string>
+    <string name="quiz_timer_time">Quiz Timer Time</string>
+    <string name="log_out">Log out</string>
+    <string name="favorites">Favorites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="percentage">Percentage:</string>
+    <string name="your_score">Your Score:</string>
+    <string name="quick_access">Quick Access</string>
+
+
+</resources>
